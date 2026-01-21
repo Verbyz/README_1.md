@@ -1,0 +1,4 @@
+nano todo.md
+- Build simple landing page
+git add todo.md
+git commit -m "Update todo list"

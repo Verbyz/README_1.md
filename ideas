@@ -1,0 +1,6 @@
+nano day-02/notes.md
+### Ideas
+- Short AI-generated ads
+- Talking avatar videos
+git add day-02/notes.md
+git commit -m "Add AI video ideas for day 2"

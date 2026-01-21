@@ -1,0 +1,4 @@
+nano README.md
+Building consistently, one step at a time.
+git add README.md
+git commit -m "Minor README update"

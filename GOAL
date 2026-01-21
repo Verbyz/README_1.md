@@ -5,6 +5,9 @@ Document learning progress and experiments in public.
 touch ROADMAP.md
 nano ROADMAP.md
 ## Roadmap
+- Build portfolio examples
+git add ROADMAP.md
+git commit -m "Update roadmap with portfolio goal"
 - Learn AI video tools
 - Build small demos
 - Share progress

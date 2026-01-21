@@ -2,3 +2,11 @@ git add README.md
 git commit -m "Add project goal to README"
 ## Goal
 Document learning progress and experiments in public.
+touch ROADMAP.md
+nano ROADMAP.md
+## Roadmap
+- Learn AI video tools
+- Build small demos
+- Share progress
+git add ROADMAP.md
+git commit -m "Add project roadmap"

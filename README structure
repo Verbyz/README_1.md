@@ -1,0 +1,7 @@
+nano README.md
+## Structure
+- Daily notes
+- Tools
+- Ideas
+git add README.md
+git commit -m "Document repository structure"

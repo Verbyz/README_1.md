@@ -5,3 +5,6 @@ nano tools.md
 - Markdown
 git add tools.md
 git commit -m "Add tools list"
+- AI video tools (Runway, Pika)
+git add tools.md
+git commit -m "Update tools list with AI video tools"

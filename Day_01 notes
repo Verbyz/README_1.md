@@ -1,6 +1,10 @@
 mkdir day-01
 touch day-01/notes.md
 nano day-01/notes.md
+### Focus
+Learning how to track progress on GitHub.
+git add day-01/notes.md
+git commit -m "Expand day 1 focus notes"
 ## Day 1
 Started building in public.
 git add day-01/notes.md
